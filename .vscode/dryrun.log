@@ -1,0 +1,9 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/mluu/projects/infras-stack'
+terraform plan -var 'pm_api_url=https://192.168.3.10:8006/api2/json' \
+-var 'pm_user=root@pam' \
+-var 'pm_password=matkhaucua310' \
+-var 'ssh_user=ubuntu' \
+-var 'ssh_password=12345678'
+make: Leaving directory '/home/mluu/projects/infras-stack'
+ 

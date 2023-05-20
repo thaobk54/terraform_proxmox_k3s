@@ -1,0 +1,1 @@
+{"buildTargets":["apply","destroy","init-backend","make","plan"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
